@@ -5,7 +5,7 @@ The main apps used are google sheets and google forms.
 
 Both projects are stored in the main [BM Folder](https://drive.google.com/drive/u/0/folders/1ntBurl3x5MqJyPYYiwdZ-6umh35v5Dib)
 
-[Daily Entries](https://docs.google.com/spreadsheets/d/1tQBGobBxjISfrwqO2xFE9CeyQ3NI7Cfbw_tmGBgjhRI) are stored in a spreadsheet, each day format is duplicated and renamed to the date of the day by the user. Type options are given if there are finance entries or balance entries. Two default finance entries are given:
+[Daily Entries](https://docs.google.com/spreadsheets/d/1tQBGobBxjISfrwqO2xFE9CeyQ3NI7Cfbw_tmGBgjhRI) are stored in a spreadsheet, each day format is duplicated and renamed to the date of the day by the user. Type options are given if there are finance entries or balance entries. Two default finance options are given:
 1. A.M.C.L (Finance)
 2. P.H.F Leasing (Finance)
 
