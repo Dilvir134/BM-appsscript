@@ -17,3 +17,5 @@ Let's say we have an entry where someone leaves a balance of Rs. 500. We would s
 
 When a finance entry / balance is paid, the updation of the status is done as such:
 On the day of payment we will store a new entry of the payment with certain details, then we can find the entry and select the link from the individual sheet to go to the certain entry and select the paid option from the status column, then right click the cell and insert link, then from **Sheets and Named Ranges** then click select a range of cells to link. Navigate to the entry where the payment is made and select the cell. Once done move the balance / finance to its individual sheet agian.
+
+This system has some limitations however, for example when naming a new sheet you have to make sure after duplicating the format you have to name it in the specific format of dd/mm/yyyy. If it is even slightly different e.g d/mm/yyyy the system will not work as intended.
